@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Test1_CSD215_Mahib")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e88c7a5a740e9b6fa6096675a8d52a654bab40")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Test1_CSD215_Mahib")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Test1_CSD215_Mahib")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

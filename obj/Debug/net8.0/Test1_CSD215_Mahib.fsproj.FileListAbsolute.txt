@@ -27,3 +27,4 @@ D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 6\Test1_CSD21
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 6\Test1_CSD215_Mahib\obj\Debug\net8.0\Test1_CSD215_Mahib.pdb
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 6\Test1_CSD215_Mahib\obj\Debug\net8.0\Test1_CSD215_Mahib.genruntimeconfig.cache
 D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 6\Test1_CSD215_Mahib\obj\Debug\net8.0\ref\Test1_CSD215_Mahib.dll
+D:\Computer Programming Course\Semester 3\Programming Paradigm\Day 6\Test1_CSD215_Mahib\obj\Debug\net8.0\Test1_CSD215_Mahib.sourcelink.json
