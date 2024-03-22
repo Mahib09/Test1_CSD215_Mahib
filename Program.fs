@@ -15,4 +15,8 @@ let salariesAfterTax = List.map2 (+) salaries taxes
 printfn "Salaries with taxes: %A" salariesAfterTax
 let adjustedSalaries = salaries |> List.map (fun salary -> if salary <= 49020 then salary + 20000 else salary)
 printfn "Adjusted salaries: %A" adjustedSalaries
-
+let sumSalaries = 
+    salaries 
+    |> List.filter (fun salary -> salary >= 50000 && salary <= 100000) 
+    |> List.fold (+) 0
+printfn "Sum of salaries between $50,000 and $100,000: %d" sumSalaries
