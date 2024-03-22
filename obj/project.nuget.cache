@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFF7iL6fl7dCFmSaAjNCRamYEDcprBA56X9AQ7ZBdufn9ESdX59AHHtU3hA9l/A6CJjGMeVwdw03uKlxxNgOSg==",
+  "success": true,
+  "projectFilePath": "D:\\Computer Programming Course\\Semester 3\\Programming Paradigm\\Day 6\\Test1_CSD215_Mahib\\Test1_CSD215_Mahib.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magar\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
